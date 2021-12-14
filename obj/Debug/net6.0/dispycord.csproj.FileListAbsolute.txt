@@ -13,3 +13,12 @@ D:\Projects\dispycord\obj\Debug\net6.0\dispycord.dll
 D:\Projects\dispycord\obj\Debug\net6.0\ref\dispycord.dll
 D:\Projects\dispycord\obj\Debug\net6.0\dispycord.pdb
 D:\Projects\dispycord\obj\Debug\net6.0\dispycord.genruntimeconfig.cache
+D:\Projects\dispycord\bin\Debug\net6.0\Discord.Net.Commands.dll
+D:\Projects\dispycord\bin\Debug\net6.0\Discord.Net.Core.dll
+D:\Projects\dispycord\bin\Debug\net6.0\Discord.Net.Rest.dll
+D:\Projects\dispycord\bin\Debug\net6.0\Discord.Net.Webhook.dll
+D:\Projects\dispycord\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+D:\Projects\dispycord\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\dispycord\bin\Debug\net6.0\System.Interactive.Async.dll
+D:\Projects\dispycord\bin\Debug\net6.0\System.Linq.Async.dll
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.csproj.CopyComplete
