@@ -1,9 +1,5 @@
-﻿using System;
-using System.Linq;
-using System.Threading;
+﻿using Discord;
 using Discord.WebSocket;
-using Discord.Commands;
-using Discord.Net;
 
 public class Program
 {
@@ -12,4 +8,10 @@ public class Program
 	public async Task MainAsync()
 	{
 	}
+        private Task Log(LogMessage msg)
+    {
+        Console.WriteLine(msg.ToString());
+        return Task.CompletedTask;
+    }
 }
+
