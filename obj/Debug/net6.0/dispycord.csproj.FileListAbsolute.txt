@@ -1,0 +1,15 @@
+D:\Projects\dispycord\bin\Debug\net6.0\dispycord.exe
+D:\Projects\dispycord\bin\Debug\net6.0\dispycord.deps.json
+D:\Projects\dispycord\bin\Debug\net6.0\dispycord.runtimeconfig.json
+D:\Projects\dispycord\bin\Debug\net6.0\dispycord.dll
+D:\Projects\dispycord\bin\Debug\net6.0\ref\dispycord.dll
+D:\Projects\dispycord\bin\Debug\net6.0\dispycord.pdb
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.csproj.AssemblyReference.cache
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.AssemblyInfoInputs.cache
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.AssemblyInfo.cs
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.csproj.CoreCompileInputs.cache
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.dll
+D:\Projects\dispycord\obj\Debug\net6.0\ref\dispycord.dll
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.pdb
+D:\Projects\dispycord\obj\Debug\net6.0\dispycord.genruntimeconfig.cache
