@@ -12,3 +12,13 @@ public class selam : ModuleBase<SocketCommandContext>
         await Context.Channel.SendMessageAsync("Selam dostum :)");
     }
 }
+public class GG: ModuleBase<SocketCommandContext>
+{
+    [Command("GG")]
+    [Summary("GoodGame")]
+
+    public async Task GgBackAsync(){
+        
+        await Context.Channel.DeleteMessageAsync();
+    }
+}
