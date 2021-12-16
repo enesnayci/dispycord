@@ -9,16 +9,17 @@ namespace Dispycord
 {
     public class Program 
     {
-            DiscordSocketClient _client = new DiscordSocketClient();
-            CommandService _commands = new CommandService();
-
-       CommandHandler _deneme ;
-	public static Task Main(string[] args) => new Program().MainAsync();        
+        DiscordSocketClient _client = new DiscordSocketClient();
+        CommandService _commands = new CommandService();
+        
+	    public static Task Main(string[] args) => new Program().MainAsync();    
+        
         public async Task MainAsync()
         {       
+            CommandHandler _deneme;
             string token="";
             _client.Log +=Log;
-            _deneme=new CommandHandler(_client,_commands);
+            _deneme = new CommandHandler(_client,_commands);
             token=await File.ReadAllTextAsync(@"..\token.txt");
 
             await _deneme.InstallCommandsAsync();
@@ -26,7 +27,8 @@ namespace Dispycord
             await _client.StartAsync();
             await Task.Delay(-1);
         }
-            private Task Log(LogMessage msg)
+
+        private Task Log(LogMessage msg)
         {
             Console.WriteLine(msg.ToString());
             return Task.CompletedTask;
