@@ -1457,24 +1457,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Enes\\.nuget\\packages\\": {}
+    "C:\\Users\\enes.nayci\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\dispycord\\dispycord.csproj",
+      "projectUniqueName": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj",
       "projectName": "dispycord",
-      "projectPath": "D:\\Projects\\dispycord\\dispycord.csproj",
-      "packagesPath": "C:\\Users\\Enes\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\dispycord\\obj\\",
+      "projectPath": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj",
+      "packagesPath": "C:\\Users\\enes.nayci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Enes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\enes.nayci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
