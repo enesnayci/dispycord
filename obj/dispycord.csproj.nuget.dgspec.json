@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj": {}
+    "C:\\Users\\Windows\\Desktop\\dispycord\\dispycord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj": {
+    "C:\\Users\\Windows\\Desktop\\dispycord\\dispycord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj",
+        "projectUniqueName": "C:\\Users\\Windows\\Desktop\\dispycord\\dispycord.csproj",
         "projectName": "dispycord",
-        "projectPath": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj",
-        "packagesPath": "C:\\Users\\enes.nayci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\obj\\",
+        "projectPath": "C:\\Users\\Windows\\Desktop\\dispycord\\dispycord.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\Desktop\\dispycord\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\enes.nayci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
