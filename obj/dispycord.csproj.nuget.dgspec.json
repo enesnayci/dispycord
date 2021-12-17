@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj": {}
+    "C:\\Users\\Enes\\Desktop\\Projects\\dispycord\\dispycord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj": {
+    "C:\\Users\\Enes\\Desktop\\Projects\\dispycord\\dispycord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj",
+        "projectUniqueName": "C:\\Users\\Enes\\Desktop\\Projects\\dispycord\\dispycord.csproj",
         "projectName": "dispycord",
-        "projectPath": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\dispycord.csproj",
-        "packagesPath": "C:\\Users\\enes.nayci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enes.nayci\\Desktop\\Projects\\dispycord\\obj\\",
+        "projectPath": "C:\\Users\\Enes\\Desktop\\Projects\\dispycord\\dispycord.csproj",
+        "packagesPath": "C:\\Users\\Enes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Enes\\Desktop\\Projects\\dispycord\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\enes.nayci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
